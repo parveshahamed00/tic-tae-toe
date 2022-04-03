@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.content{
+    padding: 5%;
+}
+button{
+    height: 55px;
+    width: 65px;
+    margin: 2%;
+    
+}
+.winner{
+    display: none;
+}
+input{
+    margin-top: 30px;
+    float: right;
+}
